@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?brodyhughes&style=flat-square&color=blue" alt=""/>
  </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodyhughes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodyhughes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
