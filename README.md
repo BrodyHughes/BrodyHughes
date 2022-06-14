@@ -1,4 +1,4 @@
-[Twitter @brdy_eth](https://twitter.com/brdy_eth)
+ <a href="https://twitter.com/brdy_eth"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodyhughes)](https://github.com/anuraghazra/github-readme-stats)
 
